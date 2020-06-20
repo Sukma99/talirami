@@ -1,0 +1,13 @@
+[03-Oct-2019 14:05:45 Asia/Jakarta] PHP Notice:  Use of undefined constant ‘xlsmtp - assumed '‘xlsmtp' in /home/talt6721/public_html/email-script.php on line 5
+[03-Oct-2019 14:05:45 Asia/Jakarta] PHP Notice:  Use of undefined constant xl - assumed 'xl' in /home/talt6721/public_html/email-script.php on line 5
+[03-Oct-2019 14:05:45 Asia/Jakarta] PHP Notice:  Use of undefined constant net - assumed 'net' in /home/talt6721/public_html/email-script.php on line 5
+[03-Oct-2019 14:05:45 Asia/Jakarta] PHP Notice:  Use of undefined constant id’ - assumed 'id’' in /home/talt6721/public_html/email-script.php on line 5
+[03-Oct-2019 14:05:45 Asia/Jakarta] PHP Notice:  Use of undefined constant ‘SMTP’ - assumed '‘SMTP’' in /home/talt6721/public_html/email-script.php on line 7
+[03-Oct-2019 14:05:45 Asia/Jakarta] PHP Warning:  mail() has been disabled for security reasons in /home/talt6721/public_html/email-script.php on line 8
+[03-Oct-2019 14:07:31 Asia/Jakarta] PHP Warning:  mail() has been disabled for security reasons in /home/talt6721/public_html/email-script.php on line 8
+[03-Oct-2019 14:14:58 Asia/Jakarta] PHP Notice:  Use of undefined constant ‘mail - assumed '‘mail' in /home/talt6721/public_html/email-script.php on line 5
+[03-Oct-2019 14:14:58 Asia/Jakarta] PHP Notice:  Use of undefined constant talirami - assumed 'talirami' in /home/talt6721/public_html/email-script.php on line 5
+[03-Oct-2019 14:14:58 Asia/Jakarta] PHP Notice:  Use of undefined constant com’ - assumed 'com’' in /home/talt6721/public_html/email-script.php on line 5
+[03-Oct-2019 14:14:58 Asia/Jakarta] PHP Notice:  Use of undefined constant ‘SMTP’ - assumed '‘SMTP’' in /home/talt6721/public_html/email-script.php on line 7
+[03-Oct-2019 14:14:58 Asia/Jakarta] PHP Warning:  mail() has been disabled for security reasons in /home/talt6721/public_html/email-script.php on line 8
+[03-Oct-2019 14:20:12 Asia/Jakarta] PHP Warning:  mail() has been disabled for security reasons in /home/talt6721/public_html/email-script.php on line 9
